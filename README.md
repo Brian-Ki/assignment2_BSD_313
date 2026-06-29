@@ -4,7 +4,7 @@ Welcome to the **Tribute Page** repository for the BSD 313 assignment! This proj
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Semantic HTML5 Layout:** Structured cleanly using modern elements like `<header>`, `<main>`, `<section>`, and `<footer>` for optimal readability and SEO compliance.
 * **Custom CSS Styling:** Features a polished layout using the iconic Los Angeles Lakers color scheme (Purple & Gold).
@@ -13,14 +13,14 @@ Welcome to the **Tribute Page** repository for the BSD 313 assignment! This proj
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * **HTML5** - Page structure and semantics
 * **CSS3** - Page layout, typography, and keyframe animations
 
 ---
 
-## 📦 How to Run This Project Locally
+## How to Run This Project Locally
 
 If you want to view or test this webpage on your own machine, follow these simple steps:
 
