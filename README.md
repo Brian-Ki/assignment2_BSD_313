@@ -26,4 +26,4 @@ If you want to view or test this webpage on your own machine, follow these simpl
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Brian-Ki/assignment2_BSD_313.git](https://github.com/Brian-Ki/assignment2_BSD_313.git)
+   git clone https://github.com/Brian-Ki/assignment2_BSD_313.git (https://github.com/Brian-Ki/assignment2_BSD_313.git)
